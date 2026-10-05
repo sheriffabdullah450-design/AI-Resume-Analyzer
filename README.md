@@ -1,7 +1,11 @@
 # AI Resume Analyzer
 
 An AI-powered Resume Analyzer that analyzes resumes, checks ATS compatibility, matches resumes with job descriptions, provides AI suggestions, generates interview questions, and creates professional resumes.
+## Live Demo
 
+Try the live application:
+
+https://ai-resume-analyzer-s4byi5axfdeu6pmuuw5hpx.streamlit.app
 ## Features
 
 - Resume PDF Upload
